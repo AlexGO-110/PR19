@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.posts-page {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f9f9f9;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px 0;
+  font-size: 16px;
+  cursor: pointer;
+}
